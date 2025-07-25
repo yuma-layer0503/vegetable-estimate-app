@@ -1,0 +1,23 @@
+body {
+  background-color: #f5f5f5;
+  padding: 50px;
+  font-family: sans-serif;
+}
+
+input {
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
+#vegetable-form {
+  flex-direction: column;
+  gap: 10px;
+  display: flex;
+}
+
+#summary {
+  color: green;
+  margin-top: 20px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=Practice_Parcel.aa436662.css.map */

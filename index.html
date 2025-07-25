@@ -2,10 +2,17 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
-  <title>Parcel Practice</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>野菜の見積もりアプリ</title>
 </head>
 <body>
-  <h1>Hello Parcel!</h1>
-  <script type="module" src="./src/index.js"></script>
+  <h1>野菜の見積もり</h1>
+  <form id="vegetable-form">
+    <label>にんじん（円）：<input type="number" name="carrot" /></label>
+    <label>じゃがいも（円）：<input type="number" name="potato" /></label>
+    <label>たまねぎ（円）：<input type="number" name="onion" /></label>
+  </form>
+  <div id="summary">合計金額: 0 円</div>
+  <script type="module" src="./src/main.js"></script>
 </body>
 </html>

@@ -1,0 +1,11 @@
+#vegetable-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#summary {
+  margin-top: 20px;
+  font-weight: bold;
+  color: green;
+}
