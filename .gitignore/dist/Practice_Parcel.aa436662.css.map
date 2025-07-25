@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAKA","sources":["src/style.css"],"sourcesContent":["body {\n  background-color: #f5f5f5;\n  font-family: sans-serif;\n}\n\nh1 {\n  color: #007acc;\n}\n"],"names":[],"version":3,"file":"Practice_Parcel.aa436662.css.map","sourceRoot":"/__parcel_source_root/"}
